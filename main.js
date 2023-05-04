@@ -1,0 +1,7 @@
+let stars =document.getElementById('stars')
+let moon =document.getElementById('moon')
+let mountains3 =document.getElementById('mountains3')
+let mountains4 =document.getElementById('mountains4')
+let stars =document.getElementById('stars')
+let stars =document.getElementById('stars')
+let stars =document.getElementById('stars')
